@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @DaveR-CRM
+/src/backend/database.py      @DaveR-CRM
+/src/backend/routers/auth.py  @DaveR-CRM
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @DaveR-CRM
